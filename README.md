@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zinniadan
 - 👀 I’m interested in Reading, walking.
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me ..
 
 <!---
